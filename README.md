@@ -46,7 +46,7 @@ Example output of `show ip interface brief`:
 
 Example output of `show vlan brief`:
 
-![VLAN Configuration](screenshots/VLAN_example.png)
+![VLAN Configuration](screenshots/VLAN_example.jpg)
 
 ## Devices Included
 
